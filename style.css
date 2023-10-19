@@ -1,0 +1,10 @@
+ /* Estilo para un título con color azul */
+ .titulo-azul {
+    color: blue;
+    }
+/* Estilo para un rectángulo con fondo dorado */
+.rectangulo-dorado {
+     width: 300px; /* Ancho del rectángulo en píxeles */
+    height: 100px; /* Alto del rectángulo en píxeles */
+    background-color: gold; /* Color de fondo dorado */
+    }
